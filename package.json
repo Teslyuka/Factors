@@ -1,0 +1,17 @@
+{
+  "name": "factor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "tests": "jest test.js --watch"
+  },
+  "author": "Anastasiia Tesliuk",
+  "license": "ISC",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "dependencies": {
+    "jest": "^24.7.1"
+  }
+}
